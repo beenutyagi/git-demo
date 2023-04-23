@@ -14,4 +14,8 @@ public class GitDemoApplication {
 		System.out.println("git test");
 	}
 	
+	void mergingBranch() {
+		System.out.println("merging branches");
+	}
+	
 }
